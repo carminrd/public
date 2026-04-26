@@ -1,0 +1,1 @@
+Excelによるオーダー集計をSQLとPythonで再現した習作
