@@ -17,5 +17,5 @@ SQLiteやPython(pandas)に置き換えて学習中。
 
 - stagging
   - データ加工整形の習作
-    - SQLite（格納済）
-    - Python（予定）
+    - SQLite
+    - Python *update(26.05.31)
