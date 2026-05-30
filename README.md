@@ -4,9 +4,9 @@
 
 作成したものをフォルダ単位で格納。
 
-実務のExcel、Access VBA、snowflake SQLなどで
-行っていたデータ加工・集計工程を、
-SQLiteやPython(pandas)に置き換えて学習中。
+SQLやPythonを中心に学習予定。
+実務のExcel、Access VBA、snowflake SQLで
+行っていたデータ加工・集計工程を置き換える習作など。
 
 ## folders
 - orders
