@@ -6,7 +6,7 @@ SQLやPythonを中心に学習中。
 
 ## Projects
 
-### [view_JSON_py](https://github.com/carminrd/view_JSON_py)
+### [view_JSON](https://github.com/carminrd/view_JSON)
   - PythonによるJSONの構造理解とHTML構造へのキー／型情報の書き出し
 
 ### [get_JSON](https://github.com/carminrd/get_JSON)
